@@ -76,7 +76,7 @@ This explains the site
 - **HTTP Status Codes**:
 
   - 200 OK: Users' Fetched Successfully
-  - 204 No Content: No Registered User Yet
+  - 404 Bad Request:Usert Does Not Exist
   - 500 Server Error: Internal server error
 
   - on success:
