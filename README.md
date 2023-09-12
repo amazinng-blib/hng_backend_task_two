@@ -101,6 +101,6 @@ The base URL for all API endpoints is: [https://cloudy-bull-pantyhose.cyclic.app
 
 ## UML DIAGRAM
 
-![diagram](../hng_stage_two/images/HNG_UML_DIAGRAM.png)
+![diagram](images/HNG_UML_DIAGRAM.png)
 
 - **Url**: [link to the UML file](https://lucid.app/lucidchart/d9f249ec-0b0a-4b2f-95f3-dafba0335b2e/view?invitationId=inv_e79e9bc5-ee9b-4ecd-bf0e-ce5bcae70801&page=0_0#)
