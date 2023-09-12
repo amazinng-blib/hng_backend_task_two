@@ -1,10 +1,10 @@
-# CRUD Operations for User Management API - [https://google.com](https://google.com)
+# CRUD Operations for User Management API - [https://cloudy-bull-pantyhose.cyclic.app](https://cloudy-bull-pantyhose.cyclic.app)
 
 This document outlines the standard format for requests and responses for CRUD operations to manage user data with a "name" attribute.
 
 ## Base URL
 
-The base URL for all API endpoints is: [https://google.com](https://google.com)
+The base URL for all API endpoints is: [https://cloudy-bull-pantyhose.cyclic.app](https://cloudy-bull-pantyhose.cyclic.app)
 
 ## Endpoints
 
@@ -14,9 +14,9 @@ This explains the site
 
 #### Request
 
-- **Endpoint:** `/`
+- **Endpoint:** `/api`
 - **HTTP Method:** POST
-- **Url**: [https://google.com](https://google.com)
+- **Url**: [https://cloudy-bull-pantyhose.cyclic.app/api](https://cloudy-bull-pantyhose.cyclic.app/api)
 
 - **Request Body:**
 
@@ -69,7 +69,7 @@ This explains the site
 
 - **Endpoint:** `/{userId}`
 - **HTTP Method:** GET
-- **Url**: [https://google.com](https://google.com)
+- **Url**: [https://cloudy-bull-pantyhose.cyclic.app/api/{userId}](https://cloudy-bull-pantyhose.cyclic.app/api/{userId})
 
   #### Response
 
@@ -112,7 +112,7 @@ This explains the site
 
 - **Endpoint:** `/{userId}`
 - **HTTP Method:** PUT
-- **Url**: [https://google.com](https://google.com)
+- **Url**: [https://cloudy-bull-pantyhose.cyclic.app/api/{userId}](https://cloudy-bull-pantyhose.cyclic.app/api/{userId})
 
 - **Request Body:**
 
@@ -174,7 +174,7 @@ This explains the site
 
 - **Endpoint:** `/{userId}`
 - **HTTP Method:** DELETE
-- **Url**: [https://google.com](https://google.com)
+- **Url**: [https://cloudy-bull-pantyhose.cyclic.app/api/{userId}](https://cloudy-bull-pantyhose.cyclic.app/api/{userId})
 
 ### Response
 

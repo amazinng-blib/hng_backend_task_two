@@ -48,13 +48,13 @@ The API will be accessible at http://localhost:3000 by default.
 
 ## Endpoints
 
-The base URL for all API endpoints is: [https://google.com](https://google.com)
+The base URL for all API endpoints is: [https://cloudy-bull-pantyhose.cyclic.app](https://cloudy-bull-pantyhose.cyclic.app)
 
 ### 1. Create a New User
 
 - **Endpoint:** `/`
 - **HTTP Method:** POST
-- **Url**: [https://google.com](https://google.com)
+- **Url**: [https://cloudy-bull-pantyhose.cyclic.app/api](https://cloudy-bull-pantyhose.cyclic.app/api)
 - **Request Body**: JSON with a "name" field
 
 - **Example**:
@@ -68,7 +68,7 @@ The base URL for all API endpoints is: [https://google.com](https://google.com)
 
 - **Endpoint:** `/{userId}`
 - **HTTP Method:** GET
-- **Url**: [https://google.com](https://google.com)
+- **Url**: [https://cloudy-bull-pantyhose.cyclic.app/api/{userId}](https://cloudy-bull-pantyhose.cyclic.app/api/{userId})
 
   - on success:
 
@@ -83,7 +83,7 @@ The base URL for all API endpoints is: [https://google.com](https://google.com)
 
 - **Endpoint**: `/{userId}`
 - **HTTP Method:** PUT
-- **Url**: [https://google.com](https://google.com)
+- **Url**: [https://cloudy-bull-pantyhose.cyclic.app/api/{userId}](https://cloudy-bull-pantyhose.cyclic.app/api/{userId})
 - **Request Body**: JSON with a "name" field
 
   - **Example**:
@@ -97,4 +97,4 @@ The base URL for all API endpoints is: [https://google.com](https://google.com)
 
 - **Endpoint:** `/{userId}`
 - **HTTP Method:** DELETE
-- **Url**: [https://google.com](https://google.com)
+- **Url**: [https://cloudy-bull-pantyhose.cyclic.app/api/{userId}](https://cloudy-bull-pantyhose.cyclic.app/api/{userId})
