@@ -88,7 +88,7 @@ const updateUser = expressAsyncHandler(async (req, res) => {
     findUserToUpdate.save();
 
     res.status(200).json({
-      message: `${name} Updated Successfully`,
+      message: `User Updated Successfully`,
       updatedUser: findUserToUpdate,
     });
   } catch (error) {

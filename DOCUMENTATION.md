@@ -128,7 +128,7 @@ This explains the site
 
 - **HTTP Status Codes**:
 
-  - 200 Created: User successfully created
+  - 200 Updated: User Updated Successfully
   - 400 Bad Request: Input validation failed
   - 500 Server Error: Internal server error
 
@@ -152,7 +152,7 @@ This explains the site
 
     ```json
       {
-          "message" : "Jane Jackie Updated Successfully"
+          "message" : "User Updated Successfully"
           "updatedUser":{
           "id": "12345",
           "name": "Jane Jackie",
@@ -181,7 +181,7 @@ This explains the site
 - **HTTP Status Codes**:
 
 - 200 OK: ' User Deleted Successfully
-- 404 No Found: User Not Found
+- 404 Not Found: User Not Found
 - 500 Server Error: Internal server error
 
   - on failure(if user is not found)
@@ -217,6 +217,7 @@ This guide provides step-by-step instructions for setting up and deploying the A
 Before you begin, make sure you have the following prerequisites installed:
 
 - Node.js: [Download Node.js](https://nodejs.org/)
+- Code Editor Eg, Vs Code Atom etc.
 
 ## Local Development Setup
 
