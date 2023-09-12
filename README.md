@@ -52,7 +52,7 @@ The base URL for all API endpoints is: [https://cloudy-bull-pantyhose.cyclic.app
 
 ### 1. Create a New User
 
-- **Endpoint:** `/`
+- **Endpoint:** `/api`
 - **HTTP Method:** POST
 - **Url**: [https://cloudy-bull-pantyhose.cyclic.app/api](https://cloudy-bull-pantyhose.cyclic.app/api)
 - **Request Body**: JSON with a "name" field
