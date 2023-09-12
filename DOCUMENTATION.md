@@ -235,9 +235,7 @@ Follow these steps to set up the API for local development:
 
 Install the required Node.js dependencies using npm:
 
-```json
-npm install
-```
+- npm install
 
 ### 2. Configuration
 
@@ -247,10 +245,7 @@ npm install
 
 Start the API locally using the following command:
 
-```json
-npm start
-
-```
+- npm start
 
 ## Deployment to a Server
 
