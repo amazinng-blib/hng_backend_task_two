@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 ### Configuration
 
 - Create a `.env` file in the project root and configure environment-specific variables there.
-
+- ### Example
   - PORT=3000
   - MONGO_URI=mongodb://localhost:27017/hng`
 
