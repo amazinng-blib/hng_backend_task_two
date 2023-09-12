@@ -1,6 +1,6 @@
 # Express CRUD API
 
-This is a simple Express.js CRUD (Create, Read, Update, Delete) API for managing resources with a "name" attribute.starting point for building
+This is a simple Express.js CRUD (Create, Read, Update, Delete) API for managing resources with a "name" attribute.
 
 ## Table of Contents
 
